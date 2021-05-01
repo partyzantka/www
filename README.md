@@ -3,6 +3,13 @@
 + [hosted on partyzantka.pl](https://partyzantka.pl)
 + [hosted on github](https://partyzantka.github.io/www/)
 
+
+
+## Opensource Development
+    git clone https://github.com/partyzantka/www.git
+
+## Contribution
+
 ## Interesting links
 
 ### billstclair
