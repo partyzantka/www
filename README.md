@@ -39,6 +39,6 @@ http://www.amantadyna.cloud/
 ---
 [edit](https://github.com/partyzantka/www/edit/main/README.md)
 
-https://github.com/partyzantka/www
-
-    https://github.com/partyzantka/www.git
+```
+https://github.com/partyzantka/www.git
+```
