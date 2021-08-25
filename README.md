@@ -34,8 +34,8 @@ http://www.amantadyna.cloud/
 + [Network Forensics Evasion: How to Exit the Matrix](https://billstclair.com/matrix/)
 + [Doing Freedom](https://billstclair.com/DoingFreedom/)
 
-### Lnki do serwisów, które są prowadzone przez niezależnych dziennikarzy (kolejność zupełnie przypadkowa):
-> 
+### Linki do serwisów, które są prowadzone przez niezależnych dziennikarzy:
+
 > [https://psnlin.pl/](https://psnlin.pl/)
 > 
 > [https://natwojkoszt.pl/](https://natwojkoszt.pl/)
@@ -119,9 +119,9 @@ http://www.amantadyna.cloud/
 > [https://otwiera-my.pl/](https://otwiera-my.pl/)
 > 
 > [https://bezcenzury24.pl/](https://bezcenzury24.pl/)
-> 
-> Serwisy zagraniczne:
-> 
+
+### Serwisy zagraniczne:
+
 > [https://www.americasfrontlinedoctors.com/](https://www.americasfrontlinedoctors.com/)
 > 
 > [https://worlddoctorsalliance.com/](https://worlddoctorsalliance.com/)
