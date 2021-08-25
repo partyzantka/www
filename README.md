@@ -8,6 +8,11 @@
 + [Do pobrania – WOLNE WYBORY](https://wolnewybory.org/do-pobrania/)
 + [Ogólnopolskie Stowarzyszenie Wiedzy o Szczepieniach "STOP NOP"](https://stopnop.com.pl/)
 
+## Pomoc prawna
+
++ [prawnik - Ordo Iuris](https://ordoiuris.pl/prawnik)
+
+
 ## Contribution
 
 ## OSINT - open-source intelligence
