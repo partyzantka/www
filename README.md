@@ -8,6 +8,15 @@
 + [Do pobrania – WOLNE WYBORY](https://wolnewybory.org/do-pobrania/)
 + [Ogólnopolskie Stowarzyszenie Wiedzy o Szczepieniach "STOP NOP"](https://stopnop.com.pl/)
 
+
+## Świadomość
+
++ Jeśli ktoś chce zrobić Ci dobrze, to jaką ma w tym korzyść jeśli to nie jest wdzięczność za przysługę?
++ Jeśli coś musisz, to zapytaj dlaczego, komu to służy i dlaczego nie Tobie?
++ Jeśli coś chcesz, a nie musisz, to dołącz do tego kto musi
++ Autorytetem jest prawda, bo prawda jest jedna i nie musisz jej znać, by uniknąć kłopotów: wystarczy rozpoznać fałsz.
+   
+
 ## Pomoc prawna
 
 + [prawnik - Ordo Iuris](https://ordoiuris.pl/prawnik)
